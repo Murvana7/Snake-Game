@@ -1,9 +1,9 @@
-🐍 Snake Game
+# 🐍 Snake Game
 
 - A classic Snake Game built with modern web technologies, featuring smooth movement, score tracking, and clean visuals.
 This project focuses on game logic, state management, and DOM-based rendering, making it a solid example of fundamental JavaScript skills.
 
-✨ Features
+## ✨ Features
 
 - 🐍 Classic snake movement mechanics
 
@@ -33,7 +33,7 @@ Focus: Logic over visuals, clean interaction
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40"/> </p>
 
 
-🧠 How It Works
+## 🧠 How It Works
 
 - The snake moves based on keyboard input
 
